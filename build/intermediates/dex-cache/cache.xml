@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_493a4dad4a15dce741ec2601025f8f522339f123/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_5c07b5c6b60c1a40b70cef3a25a9281abed0642e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_ab7ab484d9cf40df2f8bba6ffbc10def57a2dcf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_3198bfaa28db13a491fd72cbd6ff12ec4d680d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_8041eab5360f7471dedc89df8bba06d98fea0045/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_9f57d9bc1507a39d449596a2b7590b6f61abe2b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_16edaf531baaf5e63b666fe0f7597ba0168fce3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cef3e9e7c568ed158dff5fb506d09295ea6a0a1d">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_678730b1a6905b4eccf9a58bde133890c53d03d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_365b47ce004504810e8fa96cce4b6babd43baac4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_3b92371f8fc6dde286f5a020289a04096bb71d65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_535bea1e841bef4064baffa00317d62d936689f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_3ae2515b5f63506b0dcd0e8f0846fa4161b7c336/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_905de31f6fb3d8853ce3d0630629be385d69f60e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87e59ec718cac9f3d7c0bb86955d01594b81c1a6">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ab6bae7a7386079d10b771da7bf10b26e221eb22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_7be8e275b36b06ff7a99360649c5c3395272dc0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_cf9b4384c5ed5d152e857f3ba60d62e63819a529/classes.dex" />
+    </item>
+
+</items>

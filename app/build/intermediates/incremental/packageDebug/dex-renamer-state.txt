@@ -1,0 +1,7 @@
+#Tue Mar 28 08:44:23 IST 2017
+base.0=/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_678730b1a6905b4eccf9a58bde133890c53d03d1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ab6bae7a7386079d10b771da7bf10b26e221eb22/classes.dex
+base.1=/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ab6bae7a7386079d10b771da7bf10b26e221eb22
+file.0=/Users/Hitesh/AndroidStudioProjects/BudgetApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_678730b1a6905b4eccf9a58bde133890c53d03d1/classes.dex
